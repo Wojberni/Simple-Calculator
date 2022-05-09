@@ -1,0 +1,42 @@
+<resources>
+    <string name="appName">SimpleCalculator</string>
+    <string name="clear">C</string>
+    <string name="backspace">BCK</string>
+    <string name="percent">%</string>
+    <string name="divide">/</string>
+    <string name="multiply">*</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="parenthesis">( )</string>
+    <string name="comma">,</string>
+    <string name="equals">=</string>
+    <string name="sign">+/-</string>
+    <string name="displayMsg">Enter a value!</string>
+    <string name="sinus">sin</string>
+    <string name="cosinus">cos</string>
+    <string name="tangens">tg</string>
+    <string name="root">sqrt</string>
+    <string name="naturalLog">ln</string>
+    <string name="commonLog">log</string>
+    <string name="power">^</string>
+    <string name="aboutText">This is a calculator written by Wojciech Bernatek.
+        It has a basic and advanced mode. Enjoy!</string>
+
+    <string name="nine">9</string>
+    <string name="eight">8</string>
+    <string name="seven">7</string>
+    <string name="six">6</string>
+    <string name="five">5</string>
+    <string name="four">4</string>
+    <string name="three">3</string>
+    <string name="two">2</string>
+    <string name="one">1</string>
+    <string name="zero">0</string>
+
+    <string name="simple">Simple</string>
+    <string name="calculator">Calculator</string>
+    <string name="exit">Exit</string>
+    <string name="about">About</string>
+    <string name="advanced">Advanced</string>
+    <string name="invalidOp">Invalid operation!</string>
+</resources>
