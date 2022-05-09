@@ -14,9 +14,9 @@ But if you somehow make a mistake, the Toast message will pop, so don't worry ab
 
 ## Screenshots
 
-![Phone](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Phone](https://github.com/Wojberni/Simple-Calculator/blob/master/phone.png)
 
-![Tablet](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Tablet](https://github.com/Wojberni/Simple-Calculator/blob/master/tablet.png)
 
-![Tablet-Horizontal](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Tablet-Horizontal](https://github.com/Wojberni/Simple-Calculator/blob/master/tablet_horizontal.png)
 
